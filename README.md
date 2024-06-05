@@ -10,7 +10,6 @@
 </div>
 
 ## Sobre
-Sou uma apaixonada por tecnologia e curso engenharia de software
 
 ## Ferramentas e Tecnologias
 
