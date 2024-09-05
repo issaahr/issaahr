@@ -3,7 +3,10 @@
  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
           
  <h1 align="left">Isabeli Romano</h1>
- <a href="https://www.linkedin.com/in/isabeli-romano-r" target="_blank"><img width="80px" src="https://i.ibb.co/P11TPY3/icons8-linkedin-100.png" alt="LinkedIn Icon" style="vertical-align:top;"></a>
+<a href="https://www.linkedin.com/in/isabeli-romano-r" target="_blank">
+  <img width="80px" src="https://i.imgur.com/0GCnPty.png" alt="LinkedIn Icon" style="vertical-align:top;">
+</a>
+
 
 
 </div>
